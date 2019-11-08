@@ -1,2 +1,2 @@
 # holistics-website
-Initial version holistic website (and learn react)
+Initial version holistic website to learn react
